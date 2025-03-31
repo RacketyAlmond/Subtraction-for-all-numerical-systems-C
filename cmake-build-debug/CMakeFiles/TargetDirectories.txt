@@ -1,0 +1,3 @@
+/mnt/c/Users/Piotrek/CLionProjects/untitled114/cmake-build-debug/CMakeFiles/untitled114.dir
+/mnt/c/Users/Piotrek/CLionProjects/untitled114/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Piotrek/CLionProjects/untitled114/cmake-build-debug/CMakeFiles/rebuild_cache.dir
